@@ -1,0 +1,23 @@
+El programa se esta ejecutando...
+[iFechaIni]20171126
+[Ini paso 1]
+registros eliminados de BJPROYEC.JPDNOVRET: 623
+registros eliminados de BJPROYEC.JPDVTASDAD: 4998
+registros eliminados de BJPROYEC.JPDTOTDAD: 10698
+[Fin paso 1]
+[Ini paso 2]
+registros insertados en BJPROYEC.JPDNOVRET: 623
+[Fin paso 2]
+[Ini paso 3]
+registros insertados en BJPROYEC.JPDVTASDAD: 133
+[Fin paso 3]
+[Ini paso 4]
+registros insertados en BJPROYEC.JPDVTASDAD: 4865
+[Fin paso 4]
+[Ini paso 5]
+registros insertados en BJPROYEC.JPDTOTDAD: 10698
+[Fin paso 5]
+[Ini paso 6]
+[Fin paso 6]
+Archivos creados.
+El programa finalizo.
